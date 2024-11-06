@@ -94,3 +94,28 @@ void ChooseColor_float(float3 Highlight, float3 Midtone, float3 Shadow, float Di
         OUT = Highlight;
     }
 }
+
+void ChooseColor2_float(float3 Highlight, float3 Shadow, float3 Midtone, float Diffuse, float Threshold, float Threshold1, out float3 OUT)
+{
+    if (Diffuse < Threshold)
+    {
+        OUT = Shadow;
+    }
+    else if (Diffuse < Threshold1)
+    {
+        OUT = Midtone;
+    }
+    else
+    {
+        OUT = Highlight;
+    }
+}
+
+void checkShadowAtten_float(float shadowA, out float3 OUT) {
+    if (shadowA > 0.0) {
+        OUT = float3(1.0, 1.0, 1.0);
+    }
+    else {
+        OUT = float3(0.0, 0.0, 0.0);
+    }
+}
