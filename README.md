@@ -33,7 +33,7 @@ Watercolor Shader:
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20003928.png?raw=true)
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20012116.png?raw=true)
 
-This shader was created using this tutorial (add link). I wanted a more subtle watercolor look without using a texture. This shader works well for the sphere but is too subtle in the main scene. This shader also uses rim lighting!
+This shader was created using this [tutorial](https://cyangamedev.wordpress.com/2020/10/06/watercolour-shader-experiments/). I wanted a more subtle watercolor look without using a texture. This shader works well for the sphere but is too subtle in the main scene. This shader also uses rim lighting!
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20003952.png?raw=true)
 
