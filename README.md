@@ -64,7 +64,7 @@ Post Process Outlines:
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010346.png?raw=true)
 
-I had help from the following [tutorial](https://www.youtube.com/watch?v=VGEz8oKyMpY) to create the outlines. I tried the linked tutorials but ran into technical difficulties. I adjusted the lines to be rather subtle because otherwise (with the dither and the hull shader), it looks rather overwhelming. I also only wanted Sonic to have outlines. This shadergraph works via buffer nodes (blit, for making sure lines are separated by color, and normal), and the shader is added as a render feature to the URP. 
+I had help from the following [tutorial](https://www.youtube.com/watch?v=VGEz8oKyMpY) to create the outlines. I tried the linked tutorials but ran into technical difficulties. I adjusted the lines to be rather subtle because otherwise (with the dither and the hull shader), it looks rather overwhelming. I also only wanted Sonic to have outlines. I also adjusted the outlines such that some of the watercolor effects in the toon shader have some outline noise effect applied since I think that furthers the watercolor effect. This shader graph works via buffer nodes (blit, for making sure lines are separated by color and normal), and the shader is added as a rendering feature to the URP. 
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010205.png?raw=true)
 
@@ -72,7 +72,7 @@ Additional Outlines (to add a fun crayon-like effect):
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010319.png?raw=true)
 
-This was accomplished using the [Hull Shader](). I added distortion to this outline shader using noise that changes based on time. 
+This was accomplished using the [Hull Shader](). I added distortion to this outline shader using noise that changes based on time. I also angled the outlines such that they're more prominent on the right side of Sonic's body-which adds a neat effect. 
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010150.png?raw=true)
 
