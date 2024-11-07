@@ -1,5 +1,9 @@
 # HW 4: *3D Stylization*
 
+## Sonic's Beach Day
+
+(gif of main camera view)
+
 ## 1. Picking a Piece of Concept Art
 
 I was initially inspired by this concept art from Kingdom Hearts of Sora (and from there, I wanted to do a watercolor beach scene): 
@@ -78,6 +82,9 @@ I used a dither post-process effect to reference the older Sonic games' pixel ar
 ## 6. Interactivity
 By pressing the space bar, the shaders get swapped in the scene. 
 
+## 7. 3D Scene (Turn Around)
+
+(add turn around to show it's a 3d scene) 
 
 
 ## Submission
