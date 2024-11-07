@@ -65,18 +65,27 @@ I referenced the following tutorial in order to help create this.
 Post Process Outlines:
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010346.png?raw=true)
-I had help from the following [tutorial](https://www.youtube.com/watch?v=VGEz8oKyMpY) to create the outlines. I tried the linked tutorials but ran into technical difficulties. I adjusted the lines to be rather subtle because otherwise (with the dither and the hull shader), it looks rather overwhelming.
+
+I had help from the following [tutorial](https://www.youtube.com/watch?v=VGEz8oKyMpY) to create the outlines. I tried the linked tutorials but ran into technical difficulties. I adjusted the lines to be rather subtle because otherwise (with the dither and the hull shader), it looks rather overwhelming. This shadergraph works via buffer nodes (blit, for making sure lines are separated by color, and normal), and the shader is added as a render feature to the URP. 
+
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010205.png?raw=true)
 
 Additional Outlines (to add a fun crayon-like effect): 
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010319.png?raw=true)
+
 This was accomplished using the [Hull Shader](). I added distortion to this outline shader using noise that changes based on time. 
+
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010150.png?raw=true)
 
 ---
 ## 4. Full Screen Post Process Effect
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010403.png?raw=true)
+
 I used a dither post-process effect to reference the older Sonic games' pixel art style. 
+
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010135.png?raw=true)
 
 ## 6. Interactivity
 By pressing the space bar, the shaders get swapped in the scene. 
