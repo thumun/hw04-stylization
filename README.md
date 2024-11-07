@@ -90,13 +90,7 @@ By pressing the space bar, the shaders get swapped in the scene. This can be see
 
 ## 7. 3D Scene (Turn Around)
 
-(add turn around to show it's a 3d scene) 
-
-
-## Submission
-1. Video of a turnaround of your scene
-2. A comprehensive readme doc that outlines all of the different components you accomplished throughout the homework. 
-3. All your source files, submitted as a PR against this repository.
+![](https://github.com/thumun/hw04-stylization/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(3).gif?raw=true)
 
 
 ## Attribution:
