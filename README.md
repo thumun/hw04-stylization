@@ -66,7 +66,7 @@ Post Process Outlines:
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010346.png?raw=true)
 
-I had help from the following [tutorial](https://www.youtube.com/watch?v=VGEz8oKyMpY) to create the outlines. I tried the linked tutorials but ran into technical difficulties. I adjusted the lines to be rather subtle because otherwise (with the dither and the hull shader), it looks rather overwhelming. This shadergraph works via buffer nodes (blit, for making sure lines are separated by color, and normal), and the shader is added as a render feature to the URP. 
+I had help from the following [tutorial](https://www.youtube.com/watch?v=VGEz8oKyMpY) to create the outlines. I tried the linked tutorials but ran into technical difficulties. I adjusted the lines to be rather subtle because otherwise (with the dither and the hull shader), it looks rather overwhelming. I also only wanted Sonic to have outlines. This shadergraph works via buffer nodes (blit, for making sure lines are separated by color, and normal), and the shader is added as a render feature to the URP. 
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010205.png?raw=true)
 
@@ -105,6 +105,9 @@ By pressing the space bar, the shaders get swapped in the scene.
 
 ## Attribution:
 Skybox:
+
 [Seaweed 3D Model](https://sketchfab.com/3d-models/claret-tall-seaweed-6a07131b52b34d8992861d3c3ba82a29)
+
 Sonic 3D Model: Unfortunately, I'm not sure where this is from originally, but I borrowed it from the lab assignment.  
+
 Beach 3D Model/Texture: 
