@@ -83,7 +83,7 @@ This was accomplished using the [Hull Shader](). I added distortion to this outl
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010403.png?raw=true)
 
-I used a dither post-process effect to reference the older Sonic games' pixel art style. 
+I used a dither post-process effect to reference the older Sonic games' pixel art style. This looks better in Unity-taking a screenshot added a weird circle texture for some reason. 
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010135.png?raw=true)
 
