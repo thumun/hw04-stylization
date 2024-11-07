@@ -10,7 +10,7 @@ I was initially inspired by this concept art from Kingdom Hearts of Sora (and fr
 ![Kingdom Hearts Concept]([https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/dae1ffc2-8269-493d-919f-b3811c76ed30](https://i.redd.it/b965c604nadb1.png))
 I unfortunately cannot find the original artist for this piece, but I believe it may be official art/concept art, so in that case, the art is most likely from the official Kingdom Hearts art team.
 
-However, I could not find any (not creepy) models of Sora and, unfortunately, did not have the time to make one myself. So, I borrowed the sonic model from lab! To pay homage to the sonic model, I put a twist on the concept art to look more retro video game-y (on top of the watercolor shaders). Here are some examples of what I had in mind: 
+However, I could not find any (not creepy) models of Sora and, unfortunately, did not have the time to make one myself. So, I borrowed the sonic model from lab! To pay homage to the sonic model, I put a twist on the concept art to look more video game-y (on top of the watercolor shaders). Here are some examples of what I had in mind (all from Sonic Mania): 
 
 | ![](https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/dae1ffc2-8269-493d-919f-b3811c76ed30) | ![](https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/9c345ee6-19df-4191-9e47-6722b6597a5a) | ![](https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/48521733-f83a-4704-ac8d-9d2f24574922) | ![](https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/3068bdc4-1b08-41cf-9a16-08d94be5f1ea) |  ![](https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/ae1d0fae-7998-4287-8269-13e2cafd740b) | 
 |:--:|:--:|:--:|:--:|:--:|
@@ -83,7 +83,7 @@ This was accomplished using the [Hull Shader](). I added distortion to this outl
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010403.png?raw=true)
 
-I used a dither post-process effect to reference the older Sonic games' pixel art style. This looks better in Unity-taking a screenshot added a weird circle texture for some reason. 
+I used a dither post-process effect to reference Sonic Mania's pixel art style. This looks better in Unity-taking a screenshot added a weird circle texture for some reason. 
 
 ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20010135.png?raw=true)
 
