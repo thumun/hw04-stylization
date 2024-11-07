@@ -104,10 +104,10 @@ By pressing the space bar, the shaders get swapped in the scene.
 
 
 ## Attribution:
-Skybox:
+[Tropical Island Skybox](https://sketchfab.com/3d-models/free-skybox-tropical-island-ccc22ba1a2af4e40b467ce1e21215caa)
 
 [Seaweed 3D Model](https://sketchfab.com/3d-models/claret-tall-seaweed-6a07131b52b34d8992861d3c3ba82a29)
 
 Sonic 3D Model: Unfortunately, I'm not sure where this is from originally, but I borrowed it from the lab assignment.  
 
-Beach 3D Model/Texture: 
+[Beach 3D Model/Texture](https://assetstore.unity.com/packages/3d/props/exterior/super-beach-pack-39084?srsltid=AfmBOooikKJLsuwQMQo53itSFpdKhTL31wnc5IXIzvgpeLd8_HxAfghu)
