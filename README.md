@@ -82,6 +82,8 @@ I used a dither post-process effect to reference the older Sonic games' pixel ar
 ## 6. Interactivity
 By pressing the space bar, the shaders get swapped in the scene. 
 
+(add gif)
+
 ## 7. 3D Scene (Turn Around)
 
 (add turn around to show it's a 3d scene) 
