@@ -17,21 +17,27 @@ However, I could not find any (not creepy) models of Sora and, unfortunately, di
 
 Toon Shader with a custom texture (for the shadows and midtones): 
 
-(add picture here)
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20002651.png?raw=true)
 
 This shader has multiple light supports and melds a custom texture (inspired by the Sora art). This texture is blended most with the shadows and is more subtle for the midtones. There is also rim lighting (also borrowed from the Sora concept art). 
 
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20003843.png?raw=true)
+
 Watercolor Shader:
 
-(add picture here) 
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20003928.png?raw=true)
 
-This shader was created using this tutorial (add link). I wanted a more subtle watercolor look without using a texture. This shader works well for the sphere but is a bit too subtle in the main scene. This shader also uses rim lighting!
+This shader was created using this tutorial (add link). I wanted a more subtle watercolor look without using a texture. This shader works well for the sphere but is too subtle in the main scene. This shader also uses rim lighting!
+
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20003952.png?raw=true)
 
 Vertex Animation Shader: 
 
 (add picture here) 
 
-To add depth to the scene and make it more fun, I added plants that wave in the wind. This was accomplished through vertex animation. I used the following [tutorial](https://www.youtube.com/watch?v=VQxubpLxEqU&ab_channel=GabrielAguiarProd) and the following [model](https://sketchfab.com/3d-models/claret-tall-seaweed-6a07131b52b34d8992861d3c3ba82a29) to accomplish this. 
+I added plants that wave in the wind to add depth to the scene and make it more fun. This was accomplished through vertex animation. I used the following [model](https://sketchfab.com/3d-models/claret-tall-seaweed-6a07131b52b34d8992861d3c3ba82a29) to accomplish this. 
+
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20004009.png?raw=true)
 
 Water Shader with Foam: 
 
@@ -39,11 +45,15 @@ Water Shader with Foam:
 
 I referenced the following tutorial in order to help create this. 
 
+![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20004024.png?raw=true)
+
 Water Shader using Voronoi: 
 
 (add picture here) 
 
 I referenced the following tutorial in order to help create this. 
+
+![](https://github.com/user-attachments/assets/b9182f4f-6d78-4ec5-a16f-55e25d2941dd)
 
 ---
 ## 3. Outlines
@@ -53,10 +63,10 @@ Post Process Outlines:
 
 I had help from the following [tutorial](https://www.youtube.com/watch?v=VGEz8oKyMpY) to create the outlines. I tried the linked tutorials but ran into technical difficulties. 
 
-Additional Outlines (to add a fun crayon like effect): 
+Additional Outlines (to add a fun crayon-like effect): 
 
 
-This was accomplished using the [Hull Shader](). 
+This was accomplished using the [Hull Shader](). I added distortion to this outline shader using noise that changes based on time. 
 
 ---
 ## 4. Full Screen Post Process Effect
