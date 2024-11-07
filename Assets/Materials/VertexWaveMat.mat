@@ -97,7 +97,7 @@ Material:
     m_Floats:
     - _AlphaClip: 0
     - _AlphaToMask: 0
-    - _Amplitude: 0.34
+    - _Amplitude: 200
     - _Blend: 0
     - _BlendModePreserveSpecular: 1
     - _BumpScale: 1
@@ -114,8 +114,8 @@ Material:
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
-    - _HeightWaveFreq: 0.75
-    - _MaxMask: 0.05
+    - _HeightWaveFreq: 1
+    - _MaxMask: 2
     - _Metallic: 0
     - _MinMask: 0
     - _OcclusionStrength: 1
@@ -129,7 +129,7 @@ Material:
     - _SrcBlend: 1
     - _SrcBlendAlpha: 1
     - _Surface: 0
-    - _WaveSpeed: 1
+    - _WaveSpeed: 5
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:

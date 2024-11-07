@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: ToonShader
+  m_Name: ToonShaderSonicGloves
   m_Shader: {fileID: -6465566751694194690, guid: 0529e3bff006f9843ad4389753c905d8,
     type: 3}
   m_Parent: {fileID: 0}
@@ -151,10 +151,10 @@ Material:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _Highlight: {r: 0.7971698, g: 0.87477785, b: 1, a: 0}
-    - _Midtone: {r: 0.3537736, g: 0.5403648, b: 1, a: 0}
+    - _Highlight: {r: 0.8584906, g: 0.8584906, b: 0.8584906, a: 0}
+    - _Midtone: {r: 0.81761, g: 0.83350056, b: 1, a: 0}
     - _Ramped_Diffuse_Values: {r: 0.2, g: 0.4, b: 1, a: 0}
-    - _Shadow_Color: {r: 0.028746877, g: 0.12016718, b: 0.3207547, a: 0}
+    - _Shadow_Color: {r: 0.6666666, g: 0.6815941, b: 1, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _Thresholds: {r: 0.2, g: 0.8, b: 0, a: 0}
   m_BuildTextureStacks: []
