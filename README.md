@@ -12,7 +12,7 @@ I unfortunately cannot find the original artist for this piece, but I believe it
 
 However, I could not find any (not creepy) models of Sora and, unfortunately, did not have the time to make one myself. So, I borrowed the sonic model from lab! To pay homage to the sonic model, I put a twist on the concept art to look more video game-y (on top of the watercolor shaders). Here are some examples of what I had in mind (all from Sonic Mania): 
 
-| ![](https://github.com/CIS-566-Fall-2023/hw04-stylization/assets/72320867/dae1ffc2-8269-493d-919f-b3811c76ed30) | ![](https://github.com/thumun/hw04-stylization/blob/main/sonic-team-pixel-art-is-not-viable-games-with-pixel-art-v0-j1tdvxvyojlb1.png?raw=true) | 
+| ![](https://github.com/thumun/hw04-stylization/blob/main/Screenshot%202024-11-07%20013751.png?raw=true) | ![](https://github.com/thumun/hw04-stylization/blob/main/sonic-team-pixel-art-is-not-viable-games-with-pixel-art-v0-j1tdvxvyojlb1.png?raw=true) | 
 |:--:|:--:|
 | *Sonic Mania* | *Sonic Mania* | 
 
