@@ -61,8 +61,9 @@ This was accomplished using the [Hull Shader]().
 ---
 ## 4. Full Screen Post Process Effect
 
-I had help from the following [tutorial]() to create this effect.
+(add picture)
 
+I used a dither post-process effect to reference the older Sonic games' pixel art style. 
 
 ## 6. Interactivity
 By pressing the space bar, the shaders get swapped in the scene. 
